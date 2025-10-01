@@ -2,9 +2,9 @@
 package ec.edu.espoch.practica;
 
 public class Estudiantes {
-    public string Nombre;
+    public String nombre;
     public int identificacion;
-    public int calificacion;
+    public double calificacion;
     
     //metodos
     public void entrarCurso(){

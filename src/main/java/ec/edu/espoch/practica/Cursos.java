@@ -4,7 +4,7 @@ public class Cursos {
 
     public String nombreCurso;
     public int codigo;
-    public String listaEstudiante;
+    public Estudiantes[] estudiantesInscritos;
 
     //Metodos
     public void agregarEstudiante() {
